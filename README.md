@@ -1,3 +1,3 @@
 # Design-Vending-Machine
-<img width="1002" height="563" alt="vm" src="https://github.com/user-attachments/assets/d6487897-d0bf-4bd0-b23d-a4bd73de64c8" />
-
+<img width="1055" height="592" alt="fsm" src="https://github.com/user-attachments/assets/c47b9158-51a8-4965-94d4-5657a9e4d1c9" />
+<img width="606" height="682" alt="vm1" src="https://github.com/user-attachments/assets/1d20eeb0-bd39-4a72-a0ad-ebf473c61c25" />
